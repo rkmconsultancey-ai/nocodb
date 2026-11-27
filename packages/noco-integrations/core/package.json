@@ -18,7 +18,7 @@
     "ipaddr.js": "^2.3.0",
     "isomorphic-dompurify": "^2.25.0",
     "nocodb-sdk": "file:../../nocodb-sdk",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^20.17.46",
